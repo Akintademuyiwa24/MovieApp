@@ -1,0 +1,17 @@
+.sec2{
+   margin-top: 20px;
+   padding: 10px;
+}
+.text1{
+   text-align: center;
+   font-family: MontseratBold;
+   font-size: 36px;
+   margin-bottom: 10px;
+}
+
+.n-sers{
+   display: flex;
+   justify-content: space-between;
+   gap: 0.5rem;
+   padding: 50px 150px;
+}

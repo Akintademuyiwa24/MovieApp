@@ -1,0 +1,42 @@
+*{
+   padding: 1px;
+}
+
+.button {
+   border-radius: 34px;
+   border: none;
+   color: white;
+   font-size: 14px;
+   padding: 8px 12px;
+   background: linear-gradient(180deg, #aa0d76 26.71%, #fb982f 99.36% );
+   box-shadow: 0px 10px 14px 3px rgba(251, 161, 40, 0.42);
+}
+
+.button:hover{
+   background: wheat;
+   color: #aa0d76;
+   box-shadow: none;
+   border: 1px solid orchid;
+}
+
+@font-face{
+   font-family: Abril;
+   src: url(../src/fonts/AbrilFatface-Regular.ttf);
+}
+.testfont{
+   font-family: Montserat;
+   color: white;
+}
+@font-face {
+   font-family: OpenSans;
+   src: url(../src/fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+   font-family: Montserat;
+   src: url(../src/fonts/Montserrat-Regular.ttf);
+
+}
+@font-face {
+   font-family: MontseratBold;
+   src: url(../src/fonts/Montserrat-Bold.ttf);
+}
